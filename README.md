@@ -1,0 +1,2 @@
+# WMIPXEServerTerminal
+WMIPXEServer HTML Terminal
